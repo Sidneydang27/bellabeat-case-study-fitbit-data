@@ -30,6 +30,21 @@ Data includes:
 - Hourly intensity, calories burned, and steps
 
 ---
+##🧪 Key Steps:
+
+**1. Ask**: How do users utilize smart devices for health tracking?
+
+**2. Prepare**: Imported 6 Fitbit datasets, standardized datetime formats
+
+**3. Process**: Cleaned data, removed nulls and duplicates
+
+**4. Analyze**: Discovered patterns in steps, calories, sleep, intensity
+
+**5. Share**: Built visual dashboard and summarized key insights
+
+**6. Act**: Suggested product and marketing improvements
+
+--
 
 ## 🔍 Analysis Highlights
 
