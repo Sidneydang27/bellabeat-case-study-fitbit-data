@@ -42,7 +42,7 @@ Data includes:
 
 ## 📈 Visualizations
 
-<img src="images/Visualizing Daily Activity Rhythms & Variability.png" width="500"/>
+<img src="images/Visualizing Daily Activity Rhythms & Variability.png" width="900" height="600"/>
 
 <img src="images/Daily Patterns in Activity Variability.png" width="900" height="600"/>
 
