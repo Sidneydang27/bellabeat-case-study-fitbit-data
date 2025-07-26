@@ -44,7 +44,7 @@ Data includes:
 
 **6. Act**: Suggested product and marketing improvements
 
---
+---
 
 ## 🔍 Analysis Highlights
 
