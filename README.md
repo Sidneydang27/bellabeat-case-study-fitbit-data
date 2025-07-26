@@ -60,16 +60,6 @@ Data includes:
 
 ---
 
-## 📂 Project Structure
-
-bellabeat-case-study-fitbit-data/
-├── README.md
-├── SQL/
-├── images/
-└── LICENSE
-
----
-
 ## 🤝 Acknowledgements
 
 This case study is part of the [Google Data Analytics Certificate Program (Coursera)] and is based on publicly available Fitbit data for educational purposes.
